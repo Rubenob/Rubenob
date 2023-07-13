@@ -15,12 +15,18 @@ Además, trabajar en la industria de los videojuegos me permite estar al tanto d
 🎯 Mi objetivo es desarrollar mi carrera profesional en el sector de los videojuegos formando parte de una empresa que me permita aplicar todo lo aprendido hasta ahora y seguir creciendo tanto personal como profesionalmente para lograr los mejores resultados posibles. 
 
 ## Tecnologías:
-[![Unity](https://img.shields.io/badge/Unity-FA7343?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
-[![Unreal Engine ](https://img.shields.io/badge/Unrealengine-FA7343?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
+[![Unity](https://img.shields.io/badge/Unity-999999?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
+[![Unreal Engine ](https://img.shields.io/badge/Unrealengine-FF0000?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
+</br>
+[![C](https://img.shields.io/badge/C-9146FF?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/C++-9146FF?style=for-the-badge&logo=c++&logoColor=white&labelColor=101010)]()
 </br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+</br>
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-1877F2?style=for-the-badge&logo=AdobePhotoshop&logoColor=white&labelColor=101010)]()
+[![Blender](https://img.shields.io/badge/Blender-EC5252?style=for-the-badge&logo=Blender&logoColor=white&labelColor=101010)]()
 </br>
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
