@@ -38,7 +38,7 @@ Y alguna más...
 
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruben_Ortega-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rub%C3%A9n-ortega-berruguete/)
-[![Web](https://rubenob.github.io/-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rubenob.github.io/)
+[![Web](https://img.shields.io/badge/Web-Ruben_Ortega.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rubenob.github.io/)
 
 ## Contacto:
 
