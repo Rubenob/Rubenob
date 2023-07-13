@@ -1,4 +1,4 @@
-Hola, mi nombre es Rubén Ortega 👋
+# Hola, mi nombre es Rubén Ortega 👋
 ### Videogame Developer.
  
 ![GitHub Followers](https://img.shields.io/github/followers/Rubenob?style=social)
@@ -37,7 +37,7 @@ Además, trabajar en la industria de los videojuegos me permite estar al tanto d
 Y alguna más...
 
 ## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rubén Ortega-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rub%C3%A9n-ortega-berruguete/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruben_Ortega-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rub%C3%A9n-ortega-berruguete/)
 [![Web](https://rubenob.github.io/-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rubenob.github.io/)
 
 ## Contacto:
